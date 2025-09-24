@@ -53,8 +53,9 @@ END
 
 ```
 OUTPUT
+<img width="600" height="571" alt="image" src="https://github.com/user-attachments/assets/729e1d7c-8eda-470d-8112-e92b4badb262" />
 
-(Keil output screenshot can be inserted here)
+
 
 ---
 MANUAL CALCULATIONS
