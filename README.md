@@ -65,7 +65,6 @@ MANUAL CALCULATIONS
 <img width="500" height="556" alt="image" src="https://github.com/user-attachments/assets/d2c144c0-44c9-4268-8b9b-27cf11029db1" />
 
 
----
 
 RESULT
 
